@@ -1,0 +1,1130 @@
+[
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$1200000$81jkQSKI7IxlgV37wUJezw$II8tujFdDxKv5NRAA7wr14ig5R7038zMYOg8qKGXAfE=",
+        "last_login": "2026-03-17T06:35:12.328Z",
+        "is_superuser": true,
+        "username": "Amrutha",
+        "first_name": "",
+        "last_name": "",
+        "email": "amruthalokareddy1@gmail.com",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2026-03-17T06:34:15.124Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$1200000$BPKBANWxhYrM4kHpok8Hnh$XVcGuShtOJlfvM6ligA5Yf6y0fUOOYaluP5uhXonJEo=",
+        "last_login": "2026-04-06T06:28:14.868Z",
+        "is_superuser": true,
+        "username": "Satya",
+        "first_name": "",
+        "last_name": "",
+        "email": "Satya@gmail.com",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2026-04-06T06:25:31.183Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$1200000$7qM44nUZ7ubNaTyDpv4fNX$xyqKPtLYDUHC0k4EpRLM9fUp0dOnyl6uBNJ173Wg0a8=",
+        "last_login": null,
+        "is_superuser": true,
+        "username": "AmmuKutty",
+        "first_name": "",
+        "last_name": "",
+        "email": "amruthalokareddy1@gmail.com",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2026-04-26T09:43:12.081Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$1200000$2ZQkQTalvBTTblv0zZsjlY$I9HY19uEwVRnNMaByOCfXfVYuEnm8TbMBNqj4KFDm/k=",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "amrutha@gmail.com",
+        "first_name": "Amrutha Lokaredy",
+        "last_name": "",
+        "email": "amrutha@gmail.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2026-04-28T07:26:31.381Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$1200000$Vj4NvgQh6gOQan45lwKOeo$XiNlctpzteVmTMCemHAu0kpBkYusp3gfNO1MVEiFjeU=",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "Ammu12@gmail.com",
+        "first_name": "Amrutha Lokareddy",
+        "last_name": "",
+        "email": "Ammu12@gmail.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2026-04-28T07:29:51.328Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$1200000$WBMEhXWhyRUUUVma1C0Ozf$yutdANoVJKtftrDTQUjCKVq/UON353psqdmQzHdQk6k=",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "pannu@gmail.com",
+        "first_name": "pranathi",
+        "last_name": "",
+        "email": "pannu@gmail.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2026-04-28T07:45:03.495Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$1200000$kUjjKJTVgAIsKeQGHZIyq6$/vUo1h1iCSTuis/Dq3Qsv2fCoAHK4xuz/MphvU/+sUI=",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "ratna@gmail.com",
+        "first_name": "ratna",
+        "last_name": "",
+        "email": "ratna@gmail.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2026-04-28T07:46:31.737Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$1200000$jKcEJBCaOW6cZpJH8yuizA$DO9yU2ZNbv35qoL2+yANbTMVigfCEwm3kRqxCim/0yA=",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "satya@gmail.com",
+        "first_name": "satya",
+        "last_name": "",
+        "email": "satya@gmail.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2026-04-28T13:49:46.696Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$1200000$pKils4335dUMJiFKqkZFdG$iuZkP5xtZqktdU6j4yM9jig4hk9Oxk+SGFseJy775C0=",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "bhavya@gmail.com",
+        "first_name": "Bhavya",
+        "last_name": "",
+        "email": "bhavya@gmail.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2026-04-28T13:50:30.623Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$1200000$ZueWqEbFEAa7IXp4lBXBRy$n2RR4Ep+jqPt7B5mve6zXodbhuu19Pm8bL629rKPonQ=",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "chandu@gmail.com",
+        "first_name": "chandini",
+        "last_name": "",
+        "email": "chandu@gmail.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2026-04-28T13:50:54.441Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$1200000$tf7VJXbjWxpG8JDqMbM18M$c2uAJS74hAC/cGKdNn9pGOSQFykgSmewXt97kvQq0Lo=",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "mammu@gmail.com",
+        "first_name": "Mamatha",
+        "last_name": "",
+        "email": "mammu@gmail.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2026-04-30T08:47:30.061Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$1200000$2Mx4sLpCHFeOfDbKDvsKZc$M0s3/U67CmKMeHge8LC8zLQzelaKY10yr1aGr0iZEgA=",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "Gaayu@gmail.com",
+        "first_name": "Gayatri",
+        "last_name": "",
+        "email": "Gaayu@gmail.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2026-04-30T09:00:30.241Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$1200000$1itfxvIzuNO8daOVjdLgbt$4NVEK0pyp6/KAfBYrFLrfcDQPoj4XO/tPVXXy5GKcFg=",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "ganni@gmail.com",
+        "first_name": "Ganesh",
+        "last_name": "",
+        "email": "ganni@gmail.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2026-04-30T09:01:58.668Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$1200000$OaOsEXapJJ7VLIRo5vO3lc$XCgugGOu12GTTvW6MGMrZdfPAz7vUHOid7SzgClFwVk=",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "chandu1@gmail.com",
+        "first_name": "chandu",
+        "last_name": "",
+        "email": "chandu1@gmail.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2026-04-30T09:05:09.392Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$1200000$im1v5gBvPQKJSCKRLE8qQ2$M6Cjr+79wK/uN97BXBsE/hc8g82dGZgi/T3nFeC4gFs=",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "sravs@gmail.com",
+        "first_name": "sravani",
+        "last_name": "",
+        "email": "sravs@gmail.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2026-05-01T05:46:59.486Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$1200000$e94rJpm6qyFjUrGbjcAS7u$BXb2hDEL9y780QSKPUEOOw99eSuymOk9xHwEpHtWhtA=",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "bhavani@gmail.com",
+        "first_name": "bhavani",
+        "last_name": "",
+        "email": "bhavani@gmail.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2026-05-01T05:47:30.885Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$1200000$StBKhOe36Kvq27JecBGlQa$25IbyWQnwDf7/FM3qGLDisYZVHXpTLw1ewVK3LBDfNU=",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "srii@gmail.com",
+        "first_name": "srii",
+        "last_name": "",
+        "email": "srii@gmail.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2026-05-01T05:48:08.068Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$1200000$xAFpZubK9JjkfIiPJnaF0n$8AIHZFSBYFzZ45ZM32LzKWiioOHXCTKgng9EaFQ/Gq0=",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "yamini@gmail.com",
+        "first_name": "yamini",
+        "last_name": "",
+        "email": "yamini@gmail.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2026-05-01T05:48:24.809Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$1200000$aUwD4aJnQIHKBlW9w1pAGy$OVa+UtpvwEFo7PCCHsXj+i7nyKpJZHagB7skbE64iU0=",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "deepu@gmail.com",
+        "first_name": "Deepika",
+        "last_name": "Sowmya",
+        "email": "deepu@gmail.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2026-05-01T05:48:51.407Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$1200000$T6c1aEUHls11OPOdGSZ1D6$tfW3iMhG9UR7PJe7gqX7bHPTdHYU6xoECP1qo91D0pA=",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "Ganni@gmail.com",
+        "first_name": "Ganni",
+        "last_name": "",
+        "email": "Ganni@gmail.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2026-05-01T05:49:12.620Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$1200000$L6419a5OMdcWdBJ23F4HSS$9GhuoU745UCnniFdRQi5jIreIwRgQg/5vswpGKEny58=",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "lucky@gmail.com",
+        "first_name": "Lakshmi",
+        "last_name": "",
+        "email": "lucky@gmail.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2026-05-01T05:49:35.866Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "employee.employeeprofile",
+    "pk": 1,
+    "fields": {
+        "user": [
+            "Amrutha"
+        ],
+        "role": "ceo",
+        "is_approved": true,
+        "login_version": 7,
+        "base_salary": "0.00",
+        "current_salary": "0.00",
+        "department": null,
+        "leaves_balance": 24,
+        "phone": null,
+        "address": null
+    }
+},
+{
+    "model": "employee.employeeprofile",
+    "pk": 5,
+    "fields": {
+        "user": [
+            "Satya"
+        ],
+        "role": "ceo",
+        "is_approved": true,
+        "login_version": 0,
+        "base_salary": "0.00",
+        "current_salary": "0.00",
+        "department": null,
+        "leaves_balance": 24,
+        "phone": null,
+        "address": null
+    }
+},
+{
+    "model": "employee.employeeprofile",
+    "pk": 6,
+    "fields": {
+        "user": [
+            "AmmuKutty"
+        ],
+        "role": "employee",
+        "is_approved": true,
+        "login_version": 0,
+        "base_salary": "0.00",
+        "current_salary": "0.00",
+        "department": null,
+        "leaves_balance": 24,
+        "phone": null,
+        "address": null
+    }
+},
+{
+    "model": "employee.employeeprofile",
+    "pk": 7,
+    "fields": {
+        "user": [
+            "amrutha@gmail.com"
+        ],
+        "role": "ceo",
+        "is_approved": true,
+        "login_version": 0,
+        "base_salary": "0.00",
+        "current_salary": "0.00",
+        "department": null,
+        "leaves_balance": 24,
+        "phone": null,
+        "address": null
+    }
+},
+{
+    "model": "employee.employeeprofile",
+    "pk": 8,
+    "fields": {
+        "user": [
+            "Ammu12@gmail.com"
+        ],
+        "role": "hr",
+        "is_approved": true,
+        "login_version": 7,
+        "base_salary": "0.00",
+        "current_salary": "80000.00",
+        "department": "Engineering",
+        "leaves_balance": 24,
+        "phone": null,
+        "address": null
+    }
+},
+{
+    "model": "employee.employeeprofile",
+    "pk": 9,
+    "fields": {
+        "user": [
+            "pannu@gmail.com"
+        ],
+        "role": "employee",
+        "is_approved": true,
+        "login_version": 4,
+        "base_salary": "0.00",
+        "current_salary": "80000.00",
+        "department": "Engineering",
+        "leaves_balance": 24,
+        "phone": null,
+        "address": null
+    }
+},
+{
+    "model": "employee.employeeprofile",
+    "pk": 10,
+    "fields": {
+        "user": [
+            "ratna@gmail.com"
+        ],
+        "role": "employee",
+        "is_approved": true,
+        "login_version": 3,
+        "base_salary": "0.00",
+        "current_salary": "50000.00",
+        "department": "Engineering",
+        "leaves_balance": 16,
+        "phone": null,
+        "address": null
+    }
+},
+{
+    "model": "employee.employeeprofile",
+    "pk": 11,
+    "fields": {
+        "user": [
+            "satya@gmail.com"
+        ],
+        "role": "employee",
+        "is_approved": true,
+        "login_version": 0,
+        "base_salary": "0.00",
+        "current_salary": "50000.00",
+        "department": "Engineering",
+        "leaves_balance": 24,
+        "phone": null,
+        "address": null
+    }
+},
+{
+    "model": "employee.employeeprofile",
+    "pk": 12,
+    "fields": {
+        "user": [
+            "bhavya@gmail.com"
+        ],
+        "role": "employee",
+        "is_approved": true,
+        "login_version": 0,
+        "base_salary": "0.00",
+        "current_salary": "50000.00",
+        "department": "Engineering",
+        "leaves_balance": 24,
+        "phone": null,
+        "address": null
+    }
+},
+{
+    "model": "employee.employeeprofile",
+    "pk": 13,
+    "fields": {
+        "user": [
+            "chandu@gmail.com"
+        ],
+        "role": "employee",
+        "is_approved": true,
+        "login_version": 0,
+        "base_salary": "0.00",
+        "current_salary": "50000.00",
+        "department": "Engineering",
+        "leaves_balance": 24,
+        "phone": null,
+        "address": null
+    }
+},
+{
+    "model": "employee.employeeprofile",
+    "pk": 14,
+    "fields": {
+        "user": [
+            "mammu@gmail.com"
+        ],
+        "role": "employee",
+        "is_approved": true,
+        "login_version": 0,
+        "base_salary": "0.00",
+        "current_salary": "50000.00",
+        "department": "Sales",
+        "leaves_balance": 24,
+        "phone": null,
+        "address": null
+    }
+},
+{
+    "model": "employee.employeeprofile",
+    "pk": 15,
+    "fields": {
+        "user": [
+            "Gaayu@gmail.com"
+        ],
+        "role": "employee",
+        "is_approved": true,
+        "login_version": 0,
+        "base_salary": "0.00",
+        "current_salary": "50000.00",
+        "department": "Engineering",
+        "leaves_balance": 24,
+        "phone": null,
+        "address": null
+    }
+},
+{
+    "model": "employee.employeeprofile",
+    "pk": 16,
+    "fields": {
+        "user": [
+            "ganni@gmail.com"
+        ],
+        "role": "employee",
+        "is_approved": true,
+        "login_version": 0,
+        "base_salary": "0.00",
+        "current_salary": "50000.00",
+        "department": "Engineering",
+        "leaves_balance": 24,
+        "phone": null,
+        "address": null
+    }
+},
+{
+    "model": "employee.employeeprofile",
+    "pk": 17,
+    "fields": {
+        "user": [
+            "chandu1@gmail.com"
+        ],
+        "role": "employee",
+        "is_approved": true,
+        "login_version": 0,
+        "base_salary": "0.00",
+        "current_salary": "50000.00",
+        "department": "Engineering",
+        "leaves_balance": 24,
+        "phone": null,
+        "address": null
+    }
+},
+{
+    "model": "employee.employeeprofile",
+    "pk": 18,
+    "fields": {
+        "user": [
+            "sravs@gmail.com"
+        ],
+        "role": "employee",
+        "is_approved": true,
+        "login_version": 0,
+        "base_salary": "0.00",
+        "current_salary": "45000.00",
+        "department": "Sales",
+        "leaves_balance": 24,
+        "phone": null,
+        "address": null
+    }
+},
+{
+    "model": "employee.employeeprofile",
+    "pk": 19,
+    "fields": {
+        "user": [
+            "bhavani@gmail.com"
+        ],
+        "role": "employee",
+        "is_approved": true,
+        "login_version": 0,
+        "base_salary": "0.00",
+        "current_salary": "50000.00",
+        "department": "Engineering",
+        "leaves_balance": 24,
+        "phone": null,
+        "address": null
+    }
+},
+{
+    "model": "employee.employeeprofile",
+    "pk": 20,
+    "fields": {
+        "user": [
+            "srii@gmail.com"
+        ],
+        "role": "employee",
+        "is_approved": true,
+        "login_version": 0,
+        "base_salary": "0.00",
+        "current_salary": "50000.00",
+        "department": "Engineering",
+        "leaves_balance": 24,
+        "phone": null,
+        "address": null
+    }
+},
+{
+    "model": "employee.employeeprofile",
+    "pk": 21,
+    "fields": {
+        "user": [
+            "yamini@gmail.com"
+        ],
+        "role": "employee",
+        "is_approved": true,
+        "login_version": 0,
+        "base_salary": "0.00",
+        "current_salary": "50000.00",
+        "department": "Engineering",
+        "leaves_balance": 24,
+        "phone": null,
+        "address": null
+    }
+},
+{
+    "model": "employee.employeeprofile",
+    "pk": 22,
+    "fields": {
+        "user": [
+            "deepu@gmail.com"
+        ],
+        "role": "employee",
+        "is_approved": true,
+        "login_version": 0,
+        "base_salary": "0.00",
+        "current_salary": "40000.00",
+        "department": "Engineering",
+        "leaves_balance": 24,
+        "phone": null,
+        "address": null
+    }
+},
+{
+    "model": "employee.employeeprofile",
+    "pk": 23,
+    "fields": {
+        "user": [
+            "Ganni@gmail.com"
+        ],
+        "role": "employee",
+        "is_approved": true,
+        "login_version": 0,
+        "base_salary": "0.00",
+        "current_salary": "40000.00",
+        "department": "Marketing",
+        "leaves_balance": 24,
+        "phone": null,
+        "address": null
+    }
+},
+{
+    "model": "employee.employeeprofile",
+    "pk": 24,
+    "fields": {
+        "user": [
+            "lucky@gmail.com"
+        ],
+        "role": "employee",
+        "is_approved": true,
+        "login_version": 0,
+        "base_salary": "0.00",
+        "current_salary": "50000.00",
+        "department": "Sales",
+        "leaves_balance": 24,
+        "phone": null,
+        "address": null
+    }
+},
+{
+    "model": "employee.attendance",
+    "pk": 1,
+    "fields": {
+        "user": [
+            "Amrutha"
+        ],
+        "date": "2026-04-28",
+        "check_in_time": "12:01:07.988",
+        "check_out_time": "12:01:14.914",
+        "meetings_attended": 0,
+        "status": "present"
+    }
+},
+{
+    "model": "employee.attendance",
+    "pk": 2,
+    "fields": {
+        "user": [
+            "Ammu12@gmail.com"
+        ],
+        "date": "2026-04-28",
+        "check_in_time": "13:10:22.198",
+        "check_out_time": "13:11:13.782",
+        "meetings_attended": 0,
+        "status": "present"
+    }
+},
+{
+    "model": "employee.attendance",
+    "pk": 3,
+    "fields": {
+        "user": [
+            "pannu@gmail.com"
+        ],
+        "date": "2026-04-28",
+        "check_in_time": "13:33:14.201",
+        "check_out_time": "13:33:22.648",
+        "meetings_attended": 0,
+        "status": "present"
+    }
+},
+{
+    "model": "employee.attendance",
+    "pk": 4,
+    "fields": {
+        "user": [
+            "ratna@gmail.com"
+        ],
+        "date": "2026-04-28",
+        "check_in_time": "19:11:56.123",
+        "check_out_time": "19:12:00.033",
+        "meetings_attended": 0,
+        "status": "present"
+    }
+},
+{
+    "model": "employee.attendance",
+    "pk": 5,
+    "fields": {
+        "user": [
+            "Ammu12@gmail.com"
+        ],
+        "date": "2026-04-30",
+        "check_in_time": "12:00:19.785",
+        "check_out_time": "12:00:23.878",
+        "meetings_attended": 0,
+        "status": "present"
+    }
+},
+{
+    "model": "employee.attendance",
+    "pk": 6,
+    "fields": {
+        "user": [
+            "pannu@gmail.com"
+        ],
+        "date": "2026-04-30",
+        "check_in_time": "12:12:58.555",
+        "check_out_time": "14:03:28.111",
+        "meetings_attended": 0,
+        "status": "present"
+    }
+},
+{
+    "model": "employee.attendance",
+    "pk": 7,
+    "fields": {
+        "user": [
+            "Ammu12@gmail.com"
+        ],
+        "date": "2026-05-01",
+        "check_in_time": "11:16:12.117",
+        "check_out_time": null,
+        "meetings_attended": 0,
+        "status": "present"
+    }
+},
+{
+    "model": "employee.attendance",
+    "pk": 8,
+    "fields": {
+        "user": [
+            "ratna@gmail.com"
+        ],
+        "date": "2026-05-01",
+        "check_in_time": "11:42:48.514",
+        "check_out_time": null,
+        "meetings_attended": 0,
+        "status": "present"
+    }
+},
+{
+    "model": "employee.leaverequest",
+    "pk": 1,
+    "fields": {
+        "user": [
+            "pannu@gmail.com"
+        ],
+        "start_date": "2026-05-07",
+        "end_date": "2026-05-09",
+        "reason": "Sick Leave",
+        "leave_type": "personal",
+        "status": "approved",
+        "created_at": "2026-04-28T08:03:51.467Z"
+    }
+},
+{
+    "model": "employee.leaverequest",
+    "pk": 2,
+    "fields": {
+        "user": [
+            "ratna@gmail.com"
+        ],
+        "start_date": "2026-05-09",
+        "end_date": "2026-05-12",
+        "reason": "personal reason",
+        "leave_type": "personal",
+        "status": "rejected",
+        "created_at": "2026-04-28T13:42:31.787Z"
+    }
+},
+{
+    "model": "employee.leaverequest",
+    "pk": 3,
+    "fields": {
+        "user": [
+            "Ammu12@gmail.com"
+        ],
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-21",
+        "reason": "Im suffering from fever from few days im not able to work now i want to take leave",
+        "leave_type": "sick",
+        "status": "approved",
+        "created_at": "2026-05-01T05:52:33.631Z"
+    }
+},
+{
+    "model": "employee.leaverequest",
+    "pk": 4,
+    "fields": {
+        "user": [
+            "Ammu12@gmail.com"
+        ],
+        "start_date": "2026-05-22",
+        "end_date": "2026-05-28",
+        "reason": "personal reason",
+        "leave_type": "personal",
+        "status": "rejected",
+        "created_at": "2026-05-01T06:19:49.572Z"
+    }
+},
+{
+    "model": "employee.leaverequest",
+    "pk": 5,
+    "fields": {
+        "user": [
+            "ratna@gmail.com"
+        ],
+        "start_date": "2026-05-15",
+        "end_date": "2026-05-22",
+        "reason": "ppersonal",
+        "leave_type": "personal",
+        "status": "approved",
+        "created_at": "2026-05-01T06:55:54.585Z"
+    }
+},
+{
+    "model": "employee.companymilestone",
+    "pk": 1,
+    "fields": {
+        "user": [
+            "pannu@gmail.com"
+        ],
+        "type": "Salary Hike",
+        "title": "Salary Increased",
+        "description": "Annual salary adjusted to $80000",
+        "date": "2026-04-28"
+    }
+},
+{
+    "model": "employee.companymilestone",
+    "pk": 2,
+    "fields": {
+        "user": [
+            "pannu@gmail.com"
+        ],
+        "type": "Appreciation",
+        "title": "Best Performance",
+        "description": "",
+        "date": "2026-04-28"
+    }
+},
+{
+    "model": "employee.notification",
+    "pk": 1,
+    "fields": {
+        "user": [
+            "pannu@gmail.com"
+        ],
+        "message": "Congratulations! Your salary has been updated to $80000.",
+        "is_read": false,
+        "created_at": "2026-04-28T15:04:06.272Z"
+    }
+},
+{
+    "model": "employee.notification",
+    "pk": 2,
+    "fields": {
+        "user": [
+            "pannu@gmail.com"
+        ],
+        "message": "New Appreciation: Best Performance!",
+        "is_read": false,
+        "created_at": "2026-04-28T15:04:33.123Z"
+    }
+},
+{
+    "model": "employee.notification",
+    "pk": 3,
+    "fields": {
+        "user": [
+            "ratna@gmail.com"
+        ],
+        "message": "Your leave request (2026-05-15 to 2026-05-22) has been APPROVED. Remaining balance: 16 days.",
+        "is_read": false,
+        "created_at": "2026-05-01T06:56:47.349Z"
+    }
+},
+{
+    "model": "employee.salaryhistory",
+    "pk": 1,
+    "fields": {
+        "user": [
+            "pannu@gmail.com"
+        ],
+        "amount": "80000.00",
+        "date": "2026-04-28"
+    }
+},
+{
+    "model": "employee.salaryhistory",
+    "pk": 2,
+    "fields": {
+        "user": [
+            "mammu@gmail.com"
+        ],
+        "amount": "50000.00",
+        "date": "2026-04-30"
+    }
+},
+{
+    "model": "employee.salaryhistory",
+    "pk": 3,
+    "fields": {
+        "user": [
+            "Gaayu@gmail.com"
+        ],
+        "amount": "50000.00",
+        "date": "2026-04-30"
+    }
+},
+{
+    "model": "employee.salaryhistory",
+    "pk": 4,
+    "fields": {
+        "user": [
+            "ganni@gmail.com"
+        ],
+        "amount": "50000.00",
+        "date": "2026-04-30"
+    }
+},
+{
+    "model": "employee.salaryhistory",
+    "pk": 5,
+    "fields": {
+        "user": [
+            "chandu1@gmail.com"
+        ],
+        "amount": "50000.00",
+        "date": "2026-04-30"
+    }
+},
+{
+    "model": "employee.salaryhistory",
+    "pk": 6,
+    "fields": {
+        "user": [
+            "sravs@gmail.com"
+        ],
+        "amount": "45000.00",
+        "date": "2026-05-01"
+    }
+},
+{
+    "model": "employee.salaryhistory",
+    "pk": 7,
+    "fields": {
+        "user": [
+            "bhavani@gmail.com"
+        ],
+        "amount": "50000.00",
+        "date": "2026-05-01"
+    }
+},
+{
+    "model": "employee.salaryhistory",
+    "pk": 8,
+    "fields": {
+        "user": [
+            "srii@gmail.com"
+        ],
+        "amount": "50000.00",
+        "date": "2026-05-01"
+    }
+},
+{
+    "model": "employee.salaryhistory",
+    "pk": 9,
+    "fields": {
+        "user": [
+            "yamini@gmail.com"
+        ],
+        "amount": "50000.00",
+        "date": "2026-05-01"
+    }
+},
+{
+    "model": "employee.salaryhistory",
+    "pk": 10,
+    "fields": {
+        "user": [
+            "deepu@gmail.com"
+        ],
+        "amount": "40000.00",
+        "date": "2026-05-01"
+    }
+},
+{
+    "model": "employee.salaryhistory",
+    "pk": 11,
+    "fields": {
+        "user": [
+            "Ganni@gmail.com"
+        ],
+        "amount": "40000.00",
+        "date": "2026-05-01"
+    }
+},
+{
+    "model": "employee.salaryhistory",
+    "pk": 12,
+    "fields": {
+        "user": [
+            "lucky@gmail.com"
+        ],
+        "amount": "50000.00",
+        "date": "2026-05-01"
+    }
+},
+{
+    "model": "employee.appreciation",
+    "pk": 1,
+    "fields": {
+        "user": [
+            "pannu@gmail.com"
+        ],
+        "title": "Best Performance",
+        "description": "",
+        "date": "2026-04-28"
+    }
+}
+]
